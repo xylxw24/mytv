@@ -3507,8 +3507,6 @@ https://stream1.freetv.fun/peng-an-xin-wen-zong-he-1.m3u8
 https://stream1.freetv.fun/peng-an-xin-wen-zong-he-2.m3u8
 #EXTINF:-1 tvg-name="西昌综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西昌综合.png" group-title="☘️四川频道",西昌综合
 http://xcfb.screx.com.cn:18085/hlsnew1/channel1.m3u8
-#EXTINF:-1 tvg-name="金川乡村" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金川乡村.png" group-title="☘️四川频道",金川乡村
-https://m3u8channel-yc.yunxya.com/nmip-media/channellive/channel100103/playlist.m3u8
 #EXTINF:-1 tvg-name="金川新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金川新闻综合.png" group-title="☘️四川频道",金川新闻综合
 https://stream1.freetv.fun/jin-chuan-xin-wen-zong-he-1.m3u8
 #EXTINF:-1 tvg-name="金川新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金川新闻综合.png" group-title="☘️四川频道",金川新闻综合
@@ -3523,6 +3521,8 @@ http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 http://cnpull.sccnfb.com:80/live/123456.m3u8
 #EXTINF:-1 tvg-name="雅安新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雅安新闻综合.png" group-title="☘️四川频道",雅安新闻综合
 https://play.yunxya.com/channellive/xinwen.m3u8
+#EXTINF:-1 tvg-name="雅安雨城" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雅安雨城.png" group-title="☘️四川频道",雅安雨城
+https://m3u8channel-yc.yunxya.com/nmip-media/channellive/channel100103/playlist.m3u8
 #EXTINF:-1 tvg-name="青神综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青神综合.png" group-title="☘️四川频道",青神综合
 http://lmt.scqstv.com:80/live1/live1.m3u8
 #EXTINF:-1 tvg-name="马尔康综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马尔康综合.png" group-title="☘️四川频道",马尔康综合
@@ -4586,9 +4586,9 @@ https://stream1.freetv.fun/yun-cheng-ke-ji-jiao-yu-1.m3u8
 #EXTINF:-1 tvg-name="运城科技教育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/运城科技教育.png" group-title="☘️山西频道",运城科技教育
 https://stream1.freetv.fun/yun-cheng-ke-ji-jiao-yu-2.m3u8
 #EXTINF:-1 tvg-name="长子综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/长子综合.png" group-title="☘️山西频道",长子综合
-https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
-#EXTINF:-1 tvg-name="长子综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/长子综合.png" group-title="☘️山西频道",长子综合
 https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd
+#EXTINF:-1 tvg-name="闻喜综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/闻喜综合.png" group-title="☘️山西频道",闻喜综合
+https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
 #EXTINF:-1 tvg-name="阳曲综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/阳曲综合.png" group-title="☘️山西频道",阳曲综合
 https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd
 #EXTINF:-1 tvg-name="黎城综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黎城综合.png" group-title="☘️山西频道",黎城综合
@@ -6397,5 +6397,5 @@ http://luobo.bkpcp.top/yy/1382745184
 http://live.iill.top/yy.php?id=1382745184
 #EXTINF:-1 tvg-name="射雕英雄传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/射雕英雄传.png" group-title="🏛经典剧场",射雕英雄传
 http://live.iill.top/yy.php?id=1354210357
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-15 03:22:40
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-15 15:23:40
 http://tvlist.top/jd/index.php?id=cctv1&qt=183.224.122.114:8014
